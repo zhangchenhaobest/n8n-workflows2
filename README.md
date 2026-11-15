@@ -1,3 +1,29 @@
+# n8n-workflows2
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+all of the workflows of n8n i could find (also from the site itself)
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+收集到的 n8n 工作流合集，含官网示例。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # n8n Workflow Collection
 
 <div align="center">
